@@ -27,6 +27,36 @@ Styling Unik: Desain Pink Lucu yang modern, responsif, dan konsisten (termasuk p
 Struktur Folder: Pastikan Anda telah meng-clone atau mengunduh semua file proyek dengan struktur folder yang benar
 Buka Proyek: Buka folder utama proyek (UTS-Pemweb-Project/) di Visual Studio Code.
 Jalankan Live Server
+
+## Struktur folder ##
+project/
+│
+├─ css/
+│   └─ style.css
+│
+├─ js/
+│   ├─ script.js
+│   └─ data.js ← (data dummy Array JSON)
+│
+├─ img/
+│   └─ (assets)
+│
+├─ login.html
+├─ dashboard.html
+├─ stok.html
+├─ checkout.html
+└─ tracking.html
+
+
+
+
+
+
+
+
+
+
+
 Klik kanan pada file index.html (halaman Login).
 Pilih opsi Open with Live Server.
 Akses Aplikasi: Browser Anda akan otomatis terbuka ke alamat lokal (biasanya http://127.0.0.1:5500/index.html).
