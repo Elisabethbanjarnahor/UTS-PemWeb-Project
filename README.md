@@ -54,8 +54,13 @@ HTML5: Digunakan untuk struktur dasar dan konten semantik.
 CSS3: Digunakan untuk styling dan desain responsif, termasuk implementasi tema Pink Lucu dan Pseudo-elements (untuk emoji).
 avaScript (Vanilla JS): Digunakan untuk semua logika, manipulasi DOM, validasi form, pengolahan data tabel, dan interaksi UI (Alert, Modal, Greeting Dinamis).
 
+## Kriteria Implementasi Proyek ##
 
+Struktur & Validitas: Memastikan HTML semantik dan struktur file modular.
+Gaya Antar Muka: Implementasi tema Pink Lucu yang konsisten dan responsif.
+avaScript DOM: Penggunaan JS untuk Validasi Form, Manipulasi Data Tabel, dan Interaksi UI Kreatif (Progress Bar, Modal Box, Alert Box).
 
+## Link Youtube ##
 
 
 
