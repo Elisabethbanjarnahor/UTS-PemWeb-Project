@@ -65,7 +65,7 @@ Gaya Antar Muka: Implementasi tema Pink Lucu yang konsisten dan responsif.
 avaScript DOM: Penggunaan JS untuk Validasi Form, Manipulasi Data Tabel, dan Interaksi UI Kreatif (Progress Bar, Modal Box, Alert Box).
 
 ## Link Youtube ##
-![link](https://youtu.be/A-RaZp4tIpI)
+[ini diisi apake kata"]()
 
 
 
