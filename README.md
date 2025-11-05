@@ -10,3 +10,4 @@
 
 
 ## Deskripsi singkat ##
+Aplikasi Front-End Toko Buku Sederhana yang dibangun dengan HTML, CSS, dan JavaScript murni. Menyediakan fitur Katalog Dinamis, Checkout, dan Tracking Pengiriman dengan Progress Bar.
