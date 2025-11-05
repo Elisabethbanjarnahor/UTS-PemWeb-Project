@@ -26,8 +26,12 @@ Styling Unik: Desain Pink Lucu yang modern, responsif, dan konsisten (termasuk p
 
 Struktur Folder: Pastikan Anda telah meng-clone atau mengunduh semua file proyek dengan struktur folder yang benar
 Buka Proyek: Buka folder utama proyek (UTS-Pemweb-Project/) di Visual Studio Code.
-Jalankan Live Server Klik kanan pada file index.html (halaman Login).
+Jalankan Live Server 
+Klik kanan pada file index.html (halaman Login).
 Pilih opsi Open with Live Server.
+Akses Aplikasi: Browser Anda akan otomatis terbuka ke alamat lokal (biasanya http://127.0.0.1:5500/index.html).
+Gunakan Akun Demo: Anda bisa mencoba login menggunakan akun demo yang tersedia di js/data.js untuk mengakses Dashboard, Katalog, dan fitur lainnya.
+
 
 ## Struktur folder ##
 project/
@@ -61,8 +65,7 @@ Gaya Antar Muka: Implementasi tema Pink Lucu yang konsisten dan responsif.
 avaScript DOM: Penggunaan JS untuk Validasi Form, Manipulasi Data Tabel, dan Interaksi UI Kreatif (Progress Bar, Modal Box, Alert Box).
 
 ## Link Youtube ##
+![link](https://youtu.be/A-RaZp4tIpI)
 
 
 
-Akses Aplikasi: Browser Anda akan otomatis terbuka ke alamat lokal (biasanya http://127.0.0.1:5500/index.html).
-Gunakan Akun Demo: Anda bisa mencoba login menggunakan akun demo yang tersedia di js/data.js untuk mengakses Dashboard, Katalog, dan fitur lainnya.
